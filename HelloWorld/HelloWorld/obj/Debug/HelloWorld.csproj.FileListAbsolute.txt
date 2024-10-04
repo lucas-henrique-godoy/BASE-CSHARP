@@ -5,3 +5,10 @@ C:\Users\lucasgodoy\Desktop\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj
 C:\Users\lucasgodoy\Desktop\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\lucasgodoy\Desktop\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\lucasgodoy\Desktop\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
