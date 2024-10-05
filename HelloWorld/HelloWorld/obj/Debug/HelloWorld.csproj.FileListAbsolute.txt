@@ -12,3 +12,10 @@ C:\Users\lucasgodoy\Desktop\BASE-CSHARP\HelloWorld\HelloWorld\obj\Debug\HelloWor
 C:\Users\lucasgodoy\Desktop\BASE-CSHARP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\lucasgodoy\Desktop\BASE-CSHARP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\lucasgodoy\Desktop\BASE-CSHARP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
