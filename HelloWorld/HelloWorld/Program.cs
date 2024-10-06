@@ -23,7 +23,9 @@ namespace HelloWorld
             // @ $ . não pode conter caratecteres especiais
             // _ pode ter underline
             // não pode usar palavras reservadas
-            int segundaGuerraMundial
+
+            int segundaGuerraMundial = 1939;
+            string corFavorita = "Preto";
             
             Console.WriteLine("Hello, Wolrd!");
 
