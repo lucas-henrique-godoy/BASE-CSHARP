@@ -62,7 +62,7 @@ namespace HelloWorld
             Console.WriteLine(corFavorita);
             */
 
-            //Constantes - não é possível modificar o valor
+            //Constantes - não é possível modificar o valor.Usado para valores importantes que não podem ser alterados.
 
             const float PI = 3.14f;
 
