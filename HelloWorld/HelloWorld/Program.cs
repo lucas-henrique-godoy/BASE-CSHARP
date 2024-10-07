@@ -113,7 +113,7 @@ namespace HelloWorld
             }
             */
 
-            // EXEMPLO DE USO ESTRUTURA CONDIONAIS ENCADEADAS.
+            /* EXEMPLO DE USO ESTRUTURA CONDIONAIS ENCADEADAS.
             Console.WriteLine("Digite sua idade: ");
 
             int idade = int.Parse(Console.ReadLine());
@@ -133,7 +133,7 @@ namespace HelloWorld
             {
                 Console.WriteLine("Você é um idoso");
             }
-
+            */
 
             Console.ReadLine();
         }
