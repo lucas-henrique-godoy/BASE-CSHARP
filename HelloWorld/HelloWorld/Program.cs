@@ -10,12 +10,12 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            // TIPOS
-            // Int: - 156 como 32334
-            // Float: - 15.6 como 232.132
-            // Bool: true ou false
-            // String: "dasda dfsaasdas"
-            // Char: 'a'
+            /* TIPOS
+             Int: - 156 como 32334
+            Float: - 15.6 como 232.132
+             Bool: true ou false
+             String: "dasda dfsaasdas"
+              Char: 'a'
 
             // REGRA DE NOMES PARA VARIÁVEIS
             // A-Z devem começar com letras
@@ -62,9 +62,28 @@ namespace HelloWorld
             Console.WriteLine(corFavorita);
             */
 
-            //Constantes - não é possível modificar o valor.Usado para valores importantes que não podem ser alterados.
+            /*Constantes - não é possível modificar o valor.Usado para valores importantes que não podem ser alterados.
 
             const float PI = 3.14f;
+            */
+
+
+            /* CAPTURANDO DADOS DO USUÁRIO.
+            Console.Write("Digite seu nome: ");
+            string nome = Console.ReadLine();
+            Console.WriteLine("Bem Vindo! " + nome);
+            */
+
+            int numeroQualquer = 20 + 20 - 80;
+            int numeroMult = 10 * 90;
+            int numeroDiv = 5 / 2;
+
+
+            Console.WriteLine(numeroQualquer);
+            Console.WriteLine(numeroMult);
+            Console.WriteLine(numeroDiv);
+
+
 
             Console.ReadLine();
         }
