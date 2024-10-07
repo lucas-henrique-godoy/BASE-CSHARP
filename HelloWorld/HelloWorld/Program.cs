@@ -62,6 +62,10 @@ namespace HelloWorld
             Console.WriteLine(corFavorita);
             */
 
+            //Constantes - não é possível modificar o valor
+
+            const float PI = 3.14f;
+
             Console.ReadLine();
         }
     }
