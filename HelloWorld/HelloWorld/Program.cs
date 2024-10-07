@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -87,7 +88,25 @@ namespace HelloWorld
             Console.WriteLine(teste);
             */
 
+            // ESTRUTURAS CONCIONAIS
+            int a = 10;
+            int b = 20;
+            int c = 2;
 
+
+
+            if (a > b)// SE
+            {
+                Console.WriteLine("True");
+            }
+            else if (a > c) // SENÃO SE
+            {
+                Console.WriteLine("Executou Elseif!");
+            }
+            else //SENÃO
+            {
+                Console.WriteLine("False");
+            }
 
             Console.ReadLine();
         }
