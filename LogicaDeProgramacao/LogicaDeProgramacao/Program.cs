@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,14 +11,23 @@ namespace LogicaDeProgramacao
     {
         static void Main(string[] args)
         {
-            // FUNÇÕES
+            /*FUNÇÕES
             GerarPreco(60);
             GerarPreco(30);
             GerarPreco(20);
             GerarPreco(-20);
             GerarPreco(-202223);
             GerarPreco(-3);
+            */
 
+            int soma1  = Somar(1, 2, 3);
+            int soma2 = Somar(10, 20, 30);
+            int soma3 = Somar(100, 200, 300);
+            
+            Console.WriteLine(soma1);
+            Console.WriteLine(soma2);
+            Console.WriteLine(soma3);
+           
             Console.ReadLine();
         }
 
@@ -38,5 +48,10 @@ namespace LogicaDeProgramacao
             Console.WriteLine("Valor final: " + valorFinal);
         }
 
+        static int Somar(int a, int b, int c)
+        {
+            int resultadoFinal =  a + b + c;
+            return resultadoFinal; 
+        }
     }
 }
