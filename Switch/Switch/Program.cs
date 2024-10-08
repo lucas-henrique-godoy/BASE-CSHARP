@@ -27,7 +27,7 @@ namespace Switch
                     Console.WriteLine("Sua cor favotita é Rosa!");
                     break;
                 default:
-                    Console.WriteLine("Você não escolheu nenhuma cor disponível!");
+                    Console.WriteLine("Sua cor favorita não esta disponível!");
                     break;
             }
 
