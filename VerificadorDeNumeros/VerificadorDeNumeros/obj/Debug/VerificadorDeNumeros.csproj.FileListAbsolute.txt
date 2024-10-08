@@ -1,0 +1,7 @@
+C:\Users\lucasgodoy\Desktop\VerificadorDeNumeros\VerificadorDeNumeros\bin\Debug\VerificadorDeNumeros.exe.config
+C:\Users\lucasgodoy\Desktop\VerificadorDeNumeros\VerificadorDeNumeros\bin\Debug\VerificadorDeNumeros.exe
+C:\Users\lucasgodoy\Desktop\VerificadorDeNumeros\VerificadorDeNumeros\bin\Debug\VerificadorDeNumeros.pdb
+C:\Users\lucasgodoy\Desktop\VerificadorDeNumeros\VerificadorDeNumeros\obj\Debug\VerificadorDeNumeros.csproj.AssemblyReference.cache
+C:\Users\lucasgodoy\Desktop\VerificadorDeNumeros\VerificadorDeNumeros\obj\Debug\VerificadorDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\lucasgodoy\Desktop\VerificadorDeNumeros\VerificadorDeNumeros\obj\Debug\VerificadorDeNumeros.exe
+C:\Users\lucasgodoy\Desktop\VerificadorDeNumeros\VerificadorDeNumeros\obj\Debug\VerificadorDeNumeros.pdb
