@@ -10,11 +10,14 @@ namespace LogicaDeProgramacao
     {
         static void Main(string[] args)
         {
+            // FUNÇÕES
             GerarPreco(60);
-            
-            
-            
-            
+            GerarPreco(30);
+            GerarPreco(20);
+            GerarPreco(-20);
+            GerarPreco(-202223);
+            GerarPreco(-3);
+
             Console.ReadLine();
         }
 
@@ -30,7 +33,9 @@ namespace LogicaDeProgramacao
 
         static void GerarPreco(int preco)
         {
-            Console.WriteLine(preco);
+            int precoAbs = Math.Abs(preco); // A função Math.Abs retorna sempre valores positivos.
+            int valorFinal = precoAbs + (2 * precoAbs);
+            Console.WriteLine("Valor final: " + valorFinal);
         }
 
     }

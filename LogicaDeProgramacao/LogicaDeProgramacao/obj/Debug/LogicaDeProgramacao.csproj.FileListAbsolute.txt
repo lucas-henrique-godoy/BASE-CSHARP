@@ -5,3 +5,10 @@ C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\LogicaDeProgramacao\Logica
 C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\LogicaDeProgramacao\LogicaDeProgramacao\obj\Debug\LogicaDeProgramacao.csproj.CoreCompileInputs.cache
 C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\LogicaDeProgramacao\LogicaDeProgramacao\obj\Debug\LogicaDeProgramacao.exe
 C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\LogicaDeProgramacao\LogicaDeProgramacao\obj\Debug\LogicaDeProgramacao.pdb
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\LogicaDeProgramacao\LogicaDeProgramacao\bin\Debug\LogicaDeProgramacao.exe.config
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\LogicaDeProgramacao\LogicaDeProgramacao\bin\Debug\LogicaDeProgramacao.exe
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\LogicaDeProgramacao\LogicaDeProgramacao\bin\Debug\LogicaDeProgramacao.pdb
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\LogicaDeProgramacao\LogicaDeProgramacao\obj\Debug\LogicaDeProgramacao.csproj.AssemblyReference.cache
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\LogicaDeProgramacao\LogicaDeProgramacao\obj\Debug\LogicaDeProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\LogicaDeProgramacao\LogicaDeProgramacao\obj\Debug\LogicaDeProgramacao.exe
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\LogicaDeProgramacao\LogicaDeProgramacao\obj\Debug\LogicaDeProgramacao.pdb
