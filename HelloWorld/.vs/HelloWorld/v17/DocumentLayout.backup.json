@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucasgodoy\\Desktop\\BASE-CSHARP\\HelloWorld\\",
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\BASE-CSHARP\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{344611FE-2BDA-4FC8-B056-343D6E7480D7}|HelloWorld\\HelloWorld.csproj|c:\\users\\lucasgodoy\\desktop\\base-csharp\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344611FE-2BDA-4FC8-B056-343D6E7480D7}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\BASE-CSHARP\\HelloWorld\\LogicaDeProgramacao\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LogicaDeProgramacao\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\BASE-CSHARP\\LogicaDeProgramacao\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +23,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucasgodoy\\Desktop\\BASE-CSHARP\\HelloWorld\\HelloWorld\\Program.cs",
-              "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
-              "ToolTip": "C:\\Users\\lucasgodoy\\Desktop\\BASE-CSHARP\\HelloWorld\\HelloWorld\\Program.cs",
-              "RelativeToolTip": "HelloWorld\\Program.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAqwIcAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\BASE-CSHARP\\HelloWorld\\LogicaDeProgramacao\\Program.cs",
+              "RelativeDocumentMoniker": "LogicaDeProgramacao\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\BASE-CSHARP\\HelloWorld\\LogicaDeProgramacao\\Program.cs",
+              "RelativeToolTip": "LogicaDeProgramacao\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T11:56:37.671Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-10-08T01:40:19.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\BASE-CSHARP\\LogicaDeProgramacao\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LogicaDeProgramacao\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\BASE-CSHARP\\LogicaDeProgramacao\\Program.cs",
+              "RelativeToolTip": "..\\LogicaDeProgramacao\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:39:31.804Z",
               "EditorCaption": ""
             }
           ]
