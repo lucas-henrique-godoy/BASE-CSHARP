@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaDeProgramacao", "LogicaDeProgramacao\LogicaDeProgramacao.csproj", "{FAD10D1E-14B1-4EAC-B2E3-FE257157077A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "..\Enum\Enum.csproj", "{7BC40D9D-8788-4DB8-8360-C4696B1FB578}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FAD10D1E-14B1-4EAC-B2E3-FE257157077A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAD10D1E-14B1-4EAC-B2E3-FE257157077A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAD10D1E-14B1-4EAC-B2E3-FE257157077A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC40D9D-8788-4DB8-8360-C4696B1FB578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC40D9D-8788-4DB8-8360-C4696B1FB578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC40D9D-8788-4DB8-8360-C4696B1FB578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC40D9D-8788-4DB8-8360-C4696B1FB578}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
