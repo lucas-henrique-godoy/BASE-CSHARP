@@ -1,0 +1,7 @@
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\EnumComSwitch\EnumComSwitch\bin\Debug\EnumComSwitch.exe.config
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\EnumComSwitch\EnumComSwitch\bin\Debug\EnumComSwitch.exe
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\EnumComSwitch\EnumComSwitch\bin\Debug\EnumComSwitch.pdb
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\EnumComSwitch\EnumComSwitch\obj\Debug\EnumComSwitch.csproj.AssemblyReference.cache
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\EnumComSwitch\EnumComSwitch\obj\Debug\EnumComSwitch.csproj.CoreCompileInputs.cache
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\EnumComSwitch\EnumComSwitch\obj\Debug\EnumComSwitch.exe
+C:\Users\lucasgodoy\Desktop\BASE-CSHARP\EnumComSwitch\EnumComSwitch\obj\Debug\EnumComSwitch.pdb
