@@ -9,6 +9,9 @@ namespace Enum
     internal class Program
     {
         enum Cor
+        {
+            
+        }
 
 
         static void Main(string[] args)
