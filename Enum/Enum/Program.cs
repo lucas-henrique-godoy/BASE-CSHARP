@@ -8,15 +8,16 @@ namespace Enum
 {
     internal class Program
     {
-        enum Cor
-        {
-            
-        }
+        enum Cor { Azul, Verde, Amarelo, Vermelho }
 
 
         static void Main(string[] args)
         {
-            
+            Cor corFavorita = Cor.Vermelho;
+            Cor corFavoritaDoLucas = Cor.Azul;
+
+            Console.WriteLine((int)corFavorita);
+            Console.WriteLine((Cor)2);
             Console.ReadLine();
         }
     }
