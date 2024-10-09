@@ -15,7 +15,9 @@ namespace While
             {
                 Console.WriteLine(contador);
                 Console.WriteLine("Rodando o While!");
-                contador = contador + 1;
+                //contador = contador + 1;
+                //contador += 1;
+                contador++;
             }
             Console.WriteLine("FIM DA LINHA!");
 
