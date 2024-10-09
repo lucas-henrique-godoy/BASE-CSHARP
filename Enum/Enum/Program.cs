@@ -18,6 +18,7 @@ namespace Enum
 
             Console.WriteLine((int)corFavorita);
             Console.WriteLine((Cor)2);
+
             Console.ReadLine();
         }
     }
