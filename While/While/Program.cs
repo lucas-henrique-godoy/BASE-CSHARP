@@ -10,6 +10,8 @@ namespace While
     {
         static void Main(string[] args)
         {
+            // Testa a Condicional  no inicio e depois executa o codigo caso a condional seja verdadeira..
+
             int contador = 0;
             while (contador < 10) // Enquanto for verdade faça
             {

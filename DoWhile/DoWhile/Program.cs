@@ -10,12 +10,15 @@ namespace DoWhile
     {
         static void Main(string[] args)
         {
+            // Executa pelo menos 1 vez o código e testa a Condicional  no final.
+            
             do
             {
-                
+                Console.WriteLine("do while!");
             }
-            while (true);
+            while (100 <10);
 
+            //Executa o código pelo menos 1 vez,mesmo que a condição seja falsa.
 
             Console.ReadLine();
         }

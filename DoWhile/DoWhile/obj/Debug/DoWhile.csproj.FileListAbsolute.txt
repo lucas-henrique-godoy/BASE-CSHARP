@@ -1,0 +1,7 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\DoWhile\DoWhile\bin\Debug\DoWhile.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\DoWhile\DoWhile\bin\Debug\DoWhile.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\DoWhile\DoWhile\bin\Debug\DoWhile.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\DoWhile\DoWhile\obj\Debug\DoWhile.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\DoWhile\DoWhile\obj\Debug\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\DoWhile\DoWhile\obj\Debug\DoWhile.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\BASE-CSHARP\DoWhile\DoWhile\obj\Debug\DoWhile.pdb
