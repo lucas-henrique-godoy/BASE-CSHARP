@@ -14,7 +14,7 @@ namespace Foreach
             
             string[] palavras = { "Victor", "Lima", "Guia do prog", "Formação", "Node", "Curso de C#", "Udemy"};           
             
-            foreach (string palavra in palavras) // Para cada.
+            foreach (string palavra in palavras) // Para cada palavra no array palavras, repita o bloco de código.
             {
                 Console.WriteLine(palavra);
             }
