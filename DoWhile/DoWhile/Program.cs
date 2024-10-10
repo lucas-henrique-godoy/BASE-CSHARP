@@ -16,7 +16,7 @@ namespace DoWhile
             {
                 Console.WriteLine("do while!");
             }
-            while (100 <10);
+            while (1000 <10);
 
             //Executa o código pelo menos 1 vez,mesmo que a condição seja falsa.
 
